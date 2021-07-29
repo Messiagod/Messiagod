@@ -15,7 +15,7 @@
   <img align="center" alt="Messi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Messi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Messi-Messi" height="200" width="200" src="https://media.giphy.com/media/l0MYsOZQZ8FTdxgiY/giphy.gif">
-  <img align="right" alt="Messi-Messi" height="200" width="200" src="https://media.giphy.com/media/41cZekVQWbG8ZcghDU/giphy.gif">                                                           
+                                                          
 </div>
   
   ##
